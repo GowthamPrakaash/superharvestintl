@@ -1,0 +1,79 @@
+.leftpad{
+	padding: 0px 50px 0px 20px;
+}
+.footer.two{
+	line-height: 30px;
+}
+.footer.two ul li a.fb {
+	background: url('../images/social2.png') no-repeat 0px 4px;  
+    padding: 10px 0 12px 52px;
+    color: #ccc;
+}
+.footer.two ul li a.fb1 {
+	background: url('../images/social1.png') no-repeat 0px 4px;
+    padding: 10px 0 12px 52px;
+    color: #ccc;
+}
+.footer.two ul li a.fb2 {
+    background: url('../images/social3.png') no-repeat 0px 4px;
+    padding: 10px 0 12px 52px;
+    color: #ccc;
+}
+.footer.two ul li a.fb3 {
+    background: url('../images/social4.png') no-repeat 0px 4px;
+    padding: 10px 0 12px 52px;
+    color: #ccc;
+}
+.footer.two ul li a.fb4 {
+    background: url('../images/social5.png') no-repeat 0px 4px;
+    padding: 10px 0 12px 52px;
+    color: #ccc;
+}
+.footer.three ul li {
+    list-style-type: none;
+    display: block;
+    color: #908F8F;
+    font-size: 14px;
+    line-height: 2.5em;
+}
+.footer.three ul li span {
+    display: block;
+}
+.footer.three ul li:nth-child(1) {
+    background: url('../images/icon2.png') no-repeat 0px 6px;
+    padding-left: 38px;
+}
+.footer.three ul li #tel {
+    background: url('../images/icon3.png') no-repeat 0px 6px;
+    padding-left: 38px;
+    display: block;
+	color:#908F8F;
+}
+.footer.three ul li #mail {
+    background: url('../images/icon1.png') no-repeat 0px 6px;
+    padding-left: 38px;
+    display: block;
+	color:#908F8F;
+}
+.footer.two ul li a.fb:hover {
+    background: url('../images/social3hover.png') no-repeat 0px 4px;
+}
+.footer.two ul li a.fb1:hover {
+    background: url('../images/social2hover.png') no-repeat 0px 4px;
+}
+.footer.two ul li a.fb2:hover {
+    background: url('../images/social4hover.png') no-repeat 0px 4px;
+}
+.footer.two ul li a.fb3:hover {
+    background: url('../images/social5hover.png') no-repeat 0px 4px;
+}
+.footer.two ul li a.fb4:hover {
+    background: url('../images/social1hover.png') no-repeat 0px 4px;
+}
+.footer.two ul li a:hover,.footer.three ul li a:hover{
+	color:#2e99ff;
+}
+
+.sub{
+	padding-left: 50px;
+}
